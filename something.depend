@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1544735521 source:c:\users\christian\desktop\c proj\something\display.c
+	<string.h>
+	<stdio.h>
+	"display.h"
+	"anim.h"
+
+1544649015 c:\users\christian\desktop\c proj\something\display.h
+	<stdlib.h>
+
+1544730799 source:c:\users\christian\desktop\c proj\something\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"display.h"
+	"draw.h"
+	"imgconvert.h"
+	"anim.h"
+	"animRes.h"
+	"editor.h"
+
+1544735927 source:c:\users\christian\desktop\c proj\something\draw.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"draw.h"
+
+1544735937 c:\users\christian\desktop\c proj\something\draw.h
+	<stdlib.h>
+
+1544647973 source:c:\users\christian\desktop\c proj\something\anim.c
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	"anim.h"
+	"display.h"
+	"animRes.h"
+
+1544526545 c:\users\christian\desktop\c proj\something\anim.h
+	<stdlib.h>
+
+1544733322 source:c:\users\christian\desktop\c proj\something\animres.c
+	<string.h>
+	<stdlib.h>
+	"animRes.h"
+
+1544730819 c:\users\christian\desktop\c proj\something\animres.h
+	<stdlib.h>
+
+1544735887 source:c:\users\christian\desktop\c proj\something\imgconvert.c
+	<string.h>
+	<stdio.h>
+	"imgconvert.h"
+	"anim.h"
+
+1544735895 c:\users\christian\desktop\c proj\something\imgconvert.h
+	<stdlib.h>
+
+1544728726 source:c:\users\christian\desktop\c proj\something\editor.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"editor.h"
+	"anim.h"
+	"animRes.h"
+
+1544728867 c:\users\christian\desktop\c proj\something\editor.h
+	<stdlib.h>
+
+1544647973 source:d:\projects\c proj\something\anim.c
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	"anim.h"
+	"display.h"
+	"animRes.h"
+
+1544526545 d:\projects\c proj\something\anim.h
+	<stdlib.h>
+
+1544649015 d:\projects\c proj\something\display.h
+	<stdlib.h>
+
+1544730819 d:\projects\c proj\something\animres.h
+	<stdlib.h>
+
+1544733322 source:d:\projects\c proj\something\animres.c
+	<string.h>
+	<stdlib.h>
+	"animRes.h"
+
+1544735521 source:d:\projects\c proj\something\display.c
+	<string.h>
+	<stdio.h>
+	"display.h"
+	"anim.h"
+
+1544735927 source:d:\projects\c proj\something\draw.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"draw.h"
+
+1544735937 d:\projects\c proj\something\draw.h
+	<stdlib.h>
+
+1544728726 source:d:\projects\c proj\something\editor.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"editor.h"
+	"anim.h"
+	"animRes.h"
+
+1544728867 d:\projects\c proj\something\editor.h
+	<stdlib.h>
+
+1544736981 source:d:\projects\c proj\something\imgconvert.c
+	<string.h>
+	<stdio.h>
+	"imgconvert.h"
+	"anim.h"
+
+1544735895 d:\projects\c proj\something\imgconvert.h
+	<stdlib.h>
+
+1544735967 source:d:\projects\c proj\something\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"display.h"
+	"draw.h"
+	"imgconvert.h"
+	"anim.h"
+	"animRes.h"
+	"editor.h"
+
